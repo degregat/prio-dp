@@ -27,7 +27,8 @@ The requirements for this use case are:
 - There should not be a single point of failure
 
 ### Running an example
-Clone this repository and run:
+Clone this repository, install the [dependencies of libprio](https://github.com/mozilla/libprio#running-the-code) and [differential-privacy](https://github.com/google/differential-privacy/#how-to-build), then run:
+
 ``` 
 make
 ./libprio/build/pclient_dp/pclient_dp
