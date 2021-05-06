@@ -1,0 +1,8 @@
+[submodule "differential-privacy"]
+	path = differential-privacy
+	url = https://github.com/degregat/differential-privacy
+	branch = c-bindings
+[submodule "libprio"]
+	path = libprio
+	url = https://github.com/degregat/libprio
+	branch = differential-privacy
